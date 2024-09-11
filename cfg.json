@@ -1,0 +1,3 @@
+{
+    "connectionString": "host=localhost port=5432 dbname=rust_postgre_test user=postgres password=123456"
+}
